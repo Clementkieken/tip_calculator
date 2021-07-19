@@ -8,6 +8,7 @@
     --Light-grayish-cyan-2: hsl(189, 41%, 97%);
     --White: hsl(0, 0%, 100%);
 
+    font-size : 16px;
 }
 
 *{
@@ -42,6 +43,7 @@ main{
 
 .container_left{
     width: 50%;
+    border-radius: 10px;
 
 }
 
